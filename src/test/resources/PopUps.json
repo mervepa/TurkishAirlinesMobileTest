@@ -1,0 +1,17 @@
+[
+  {
+    "key": "Permission_Only_Button",
+    "androidValue" : "com.android.permissioncontroller:id/permission_allow_foreground_only_button",
+    "androidType" : "id",
+    "iosValue" : "x",
+    "iosType" : "x"
+  },
+
+  {
+    "key": "Accept_Cookies",
+    "androidValue" : "com.turkishairlines.mobile:id/frPrivacy_btnAccept",
+    "androidType" : "id",
+    "iosValue" : "x",
+    "iosType" : "x"
+  }
+]

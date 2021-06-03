@@ -1,0 +1,33 @@
+[
+  {
+    "key": "Search_Input_Area",
+    "androidValue" : "com.turkishairlines.mobile:id/frAirportSelection_etSearch",
+    "androidType" : "id",
+    "iosValue" : "x",
+    "iosType" : "x"
+  },
+
+  {
+    "key": "From_Location_Result",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[2]",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "To_Location_Result",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[2]",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "SearchFlightsBtn",
+    "androidValue": "//*[@text='Search Flight']",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  }
+]

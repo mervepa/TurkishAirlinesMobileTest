@@ -1,0 +1,50 @@
+
+
+# Open Application
+* "2" seconds wait
+* Click to "Permission_Only_Button" element by id in "PopUps.json"
+* "2" seconds wait
+* Click to "Accept_Cookies" element by id in "PopUps.json"
+* "2" seconds wait
+
+# Buy Ticket
+* Click to "Buy_Ticket_Button" element by id in "HomePage.json"
+* "2" seconds wait
+
+# Flight Actions
+* Click to "One_Way_Location" element by id in "TicketPage.json"
+* "2" seconds wait
+* Click to "From_Location" element by id in "TicketPage.json"
+* "2" seconds wait
+* Find "Search_Input_Area" element and input "SAW" in "SearchAirport.json"
+* "2" seconds wait
+* Click to "From_Location_Result" element by xpath in "SearchAirport.json"
+* "2" seconds wait
+* Click to "To_Location" element by id in "TicketPage.json"
+* "2" seconds wait
+* Find "Search_Input_Area" element and input "ESB" in "SearchAirport.json"
+* "2" seconds wait
+* Click to "To_Location_Result" element by xpath in "SearchAirport.json"
+* "2" seconds wait
+* Select flight date "Flight_Date_Current" by xpath in "TicketPage.json"
+* "2" seconds wait
+* Click to "Submit_Button" element by id in "TicketPage.json"
+* "2" seconds wait
+* Click to "Choose_Adult_Number" element by xpath in "TicketPage.json"
+* "2" seconds wait
+* Click to "Search_Flights" element by id in "TicketPage.json"
+* "2" seconds wait
+
+# Listed Flights
+* Check "Flights_List" by id in "FlightsPage.json"
+* "2" seconds wait
+
+# Choose a Flight
+* Select a flight from "Flights_List" by id in "FlightsPage.json"
+* "2" seconds wait
+* Click to "Economy_Fly_Button" element by xpath in "FlightsPage.json"
+* "2" seconds wait
+* Click to "Continue_Button" element by id in "FlightsPage.json"
+* "2" seconds wait
+
+

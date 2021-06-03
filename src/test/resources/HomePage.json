@@ -1,0 +1,9 @@
+[
+  {
+    "key": "Buy_Ticket_Button",
+    "androidValue" : "com.turkishairlines.mobile:id/acMain_btnBooking",
+    "androidType" : "id",
+    "iosValue" : "x",
+    "iosType" : "x"
+  }
+]
